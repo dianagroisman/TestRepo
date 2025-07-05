@@ -1,0 +1,3 @@
+﻿  Application.cpp
+D:\Diana\work\Interview questions\2025\Projects\SolarEdge2021CodeTest\SolarEdge2021CodeTest\Application.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+  SolarEdge2021CodeTest.vcxproj -> D:\Diana\work\Interview questions\2025\Projects\SolarEdge2021CodeTest\x64\Debug\SolarEdge2021CodeTest.exe
